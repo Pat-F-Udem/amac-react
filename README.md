@@ -1,8 +1,11 @@
 Cuentas de prueba:
+
 Cuenta candidato aprobado: patricio.fonseca@udem.edu
 Contraseña: UDEM-AMARILLO
+
 Cuenta candidato no aprobado: patriciofonseca@formus.edu.mx
 Contraseña: UDEM-AMARILLO
+
 Cuenta empresa: patofonramirez@gmail.com
 Contraseña: UDEM-AMARILLO
 
